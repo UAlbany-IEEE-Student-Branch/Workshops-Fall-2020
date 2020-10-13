@@ -7,4 +7,5 @@ This was the IEEEs third fall 2020 semester workshop: "Cracking the Coding Inter
 Slides can be found in `Slides.pdf`. A list of the questions we asked are listed in `Questions.md`, and the soultions to some of these are found within the slides, while others do not have solutions provided. The Flyer for the workshop is found in `Flyer.jpg`.
 
 ## Video
-Due to privacy concernes, nobody wanted their interveiws recorded. We may provide a cut of the presentation at a later date, if we feel ike editing out the sample interveiws. 
+Due to privacy concernes, nobody wanted their interveiws recorded. The following is a link to the start and end of presentation with the interviews in the middle cut out: 
+[https://youtu.be/S11zidnaSQc](https://youtu.be/S11zidnaSQc)
