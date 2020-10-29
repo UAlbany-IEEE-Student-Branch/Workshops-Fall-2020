@@ -2,6 +2,8 @@
 
 ## Description 
 This was the IEEEs eighth fall 2020 semester workshop: "Intro to Git and Github". It took place 8pm on 10/14/20. 
+The code can be found at [https://github.com/carolynk/git_workshop](https://github.com/carolynk/git_workshop)
+
 
 ## Advertizement 
 Title: Introduction to Git and Github
